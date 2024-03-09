@@ -1,0 +1,25 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "Namaste React By jinay",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinayjinu4557/namaste_react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Jinay Parekh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinayjinu4557/namaste_react/issues"
+  },
+  "homepage": "https://github.com/jinayjinu4557/namaste_react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
